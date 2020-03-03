@@ -7,6 +7,7 @@ day, month, year = map(int, input().split())
 # calendar.TextCalendar.setfirstweekday(6)
 print(calendar.TextCalendar(6).formatweekday((calendar.weekday(year, month, day)), width=9).upper())
 
+
 #
 # # technique 2
 # list_week = ['SUNDAY', 'MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY']
