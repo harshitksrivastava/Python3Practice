@@ -15,6 +15,6 @@ i.   fibonacci without recursion and without Dynamic Programming
 ii.  fibonacci with recursion and without Dynamic Programming  
 iii. fibonacci with recursion and with Dynamic Programming(Memoization)  
 
-##### 2. fibonacci_decorator.py contains:  
+##### 4. fibonacci_decorator.py contains:  
 i.   fibonacci using memoization with decorators in a non-pythonic way  
 ii.  fibonacci using memoization with decorators in a pythonic way  
